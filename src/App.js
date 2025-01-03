@@ -87,7 +87,7 @@ class App extends Component {
                         fontWeight: "bolder",
                     }}
                 >
-                    10WeeksofCloudOps - TODO LIST
+                    Cloud & DevOps Academy - TODO LIST
                 </Row>
   
                 <hr />
